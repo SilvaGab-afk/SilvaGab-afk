@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvaGab-afk
 - 👀 I’m interested in Learning about coding
-- 🌱 I’m currently learning logic programation
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me Search for my IG @gabxwl
 
 
