@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Silva Santos
 - 👀 I’m interested in Learning about coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and also studying software enginnering at ENIAC.
 - 📫 How to reach me Search for my IG @gabxwl
 
 
