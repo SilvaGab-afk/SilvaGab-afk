@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilvaGab-afk
+- 👋 Hi, I’m Gabriel Silva Santos
 - 👀 I’m interested in Learning about coding
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me Search for my IG @gabxwl
